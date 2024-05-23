@@ -71,9 +71,9 @@ with st.expander("Aloqa"):
                 * [Telegram](https://t.me/MY_F4TH3R)
 
                 ##### Ijtimoiy tarmoqlarda ham kuzating :
-                * [GitHub](https://github.com/JabborovRoboCoder)
-                * [Telegram Channel](https://t.me/Only_IT_blog_Ilhom_Jabborov)
-                * [You Tube Channel](https://www.youtube.com/channel/UCSYhTII7NUg1rCFfl2F7Gwg)
+                * [GitHub](https://github.com/)
+                * [Telegram Channel](https://t.me/)
+                * [You Tube Channel](https://www.youtube.com/)
 
                 """)
 
